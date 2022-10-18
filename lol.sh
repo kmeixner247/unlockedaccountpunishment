@@ -1,0 +1,1 @@
+echo "echo \"echo \\\"I will not leave my account unlocked\\\"\" >>.bashrc">>.bashrc
